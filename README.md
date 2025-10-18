@@ -1,12 +1,71 @@
-# React + Vite
+# 🎬 FindAnyFilm
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Tech](https://img.shields.io/badge/tech-JavaScript-informational)
 
-Currently, two official plugins are available:
+## 📖 About the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**FindAnyFilm** is a web application that allows users to search for movies and view the top-rated ones on the homepage.  
+The project consumes the **TMDb (The Movie Database)** API to provide up-to-date information about popular titles, trending movies, and essential movie details.
 
-## Expanding the ESLint configuration
+🔗 **Access the live project:** [Click here](https://alexwalkergd.github.io/FindAnyFilm/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🖼️ Preview
+
+<img width="1919" height="994" alt="image" src="https://github.com/user-attachments/assets/846b6248-5af8-4bb6-972f-9dcbe7f0a1b2" />
+
+---
+
+## 🚀 Features
+
+- 🔍 Search for movies by title  
+- ⭐ Display top-rated movies on the homepage  
+- 🎞️ Show posters, ratings, and brief descriptions  
+- ⚡ Lightweight and responsive interface  
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5  
+- CSS3  
+- JavaScript  
+- TMDb API  
+
+---
+
+## ⚙️ How to Run Locally
+
+1. Clone this repository:
+
+    ```bash
+    git clone https://github.com/alexwalkergd/FindAnyFilm.git
+    ```
+
+2. Access the project folder:
+
+    ```bash
+    cd FindAnyFilm
+    ```
+
+3. Open the `index.html` file directly in your browser  
+   *(or use a VS Code extension like “Live Server” to run it locally)*
+
+---
+
+## 👨‍💻 Author
+
+Developed by **Alex Walker**
+
+💼 [GitHub](https://github.com/AlexWalkerGD)  
+📧 alexwalkerson@hotmail.com
+
+---
+
+## 🪪 License
+
+This project is licensed under the **MIT License**.  
+Feel free to use, modify, and distribute it as you wish.
