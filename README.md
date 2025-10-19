@@ -15,7 +15,7 @@ The project consumes the **TMDb (The Movie Database)** API to provide up-to-date
 
 ## 🖼️ Preview
 
-<img width="1919" height="994" alt="image" src="https://github.com/user-attachments/assets/846b6248-5af8-4bb6-972f-9dcbe7f0a1b2" />
+<img width="1920" height="995" alt="image" src="https://github.com/user-attachments/assets/846b6248-5af8-4bb6-972f-9dcbe7f0a1b2" />
 
 ---
 
